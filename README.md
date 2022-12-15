@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @prezire
 - 👀 I’m interested in Ubuntu, Laravel, Django, Vue.js and Docker
-- 🌱 I’m currently learning K8s
+- 🌱 I’m currently learning K8s and React.js
 - 💞️ I’m looking to collaborate on meaningful projects and [gists](https://gist.github.com/prezire). Please visit my :black_nib: [arts](https://prezire.wordpress.com/arts/) as well
 - 📫 How to reach me prezire@gmail.com
-- :briefcase: Dev Portfolio https://prezire.wordpress.com/development
+- :briefcase: Dev Portfolio sites:
+  * https://profile-app-vuejs.web.app (Vue.js)
+  * https://profile-app-prezire.vercel.app (Next.js)
+  * https://prezire.wordpress.com/development (WordPress)
 - :snowflake: Connected Sites
   * https://moneywise.com
   * https://www.revcomm.co.jp
