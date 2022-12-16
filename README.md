@@ -40,21 +40,28 @@
   * https://www.toph.sg
   * https://www.tuv-sud.com/home_com
   * https://www.ffurious.com/sandbox/InteractiveMap/InteractiveMap.html
+  * https://www.asymptotejournal.com
+  * https://www.salvation.sg
   * https://www.arcanys.com
   * https://creativezone.mediamind.com/blocks.aspx
   * https://www.bigfishgames.com/download-games/8314/explorer-contraband-mystery/index.html
   * https://www.gamehouse.com/download-games/nat-geo-explorer-contraband-mystery
-  * https://mor.ph, https://panel.mor.ph, https://morphexchange.com and https://www.g2ix.com
+  * https://mor.ph
+  * https://panel.mor.ph
+  * https://morphexchange.com
+  * https://www.g2ix.com
   * https://iphoneappsplus.com/entertainment/stan-lee-s-time-jumper/index.htm
   * https://www.maestrodev.com
   * https://assets.mor.ph/videos/panel/DeploymentDemoPlaylistOrganizer/VideoManager.html
-  * https://www.cleverlearn.com/en/clevergames.jsp.html, https://www.cleverlearn.com/clicktionary_download.jsp, https://www.cleverlearn.com/en/movielearn.jsp
-  * https://www.flashadengine.com and https://www.impactengine.com
+  * https://www.cleverlearn.com/en/clevergames.jsp.html
+  * https://www.cleverlearn.com/clicktionary_download.jsp
+  * https://www.cleverlearn.com/en/movielearn.jsp
+  * https://www.flashadengine.com
+  * https://www.impactengine.com
   * https://www.itzamatch.com/en/index.jsp
-  * https://www.movielearn.com/en/index.htm, https://www.movielearn.com/en/demo.htm
+  * https://www.movielearn.com/en/index.htm
+  * https://www.movielearn.com/en/demo.htm
   * https://www.usjr.edu.ph
-  * https://www.asymptotejournal.com
-  * https://www.salvation.sg
 
 <!---
 prezire/prezire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
