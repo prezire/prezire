@@ -10,10 +10,10 @@
 - :snowflake: Connected Sites
   * https://moneywise.com
   * https://www.revcomm.co.jp
-  * https://github.com/php-censor/php-censor/blob/master/docs/en/README.md
   * https://www.eyeqadvantage.org/login
   * https://www.orbiskpi.com
   * https://codeigniter.com/download
+  * https://github.com/php-censor/php-censor/blob/master/docs/en/README.md
   * https://www.goconsensus.com/app
   * https://packagist.org/packages/prezire/coldigniter-toolkit
   * https://packagist.org/packages/simplifie/granite
