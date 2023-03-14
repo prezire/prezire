@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @prezire
 - 👀 I’m interested in Ubuntu, Laravel, Django, Vue.js and Docker
-- 🌱 I’m currently learning K8s and React.js
+- 🌱 I’m currently learning Headless CMS, Rails, 3D, K8s and React.js
 - 💞️ I’m looking to collaborate on meaningful projects and [gists](https://gist.github.com/prezire). Please visit my :black_nib: [arts](https://prezire.wordpress.com/arts/) as well
 - 📫 How to reach me prezire@gmail.com
 - :briefcase: Dev Portfolio sites:
   * https://profile-app-vuejs.web.app (Vue.js)
   * https://profile-app-prezire.vercel.app (Next.js)
   * https://prezire.wordpress.com/development (WordPress)
+  * https://my.spline.design/island2023-e914cc5ca4fd15d46d510bbc768562fa/ (3D)
+  * https://my.spline.design/desksetup-7855e8face4844719546578a4feb0649/ (3D)
 - :snowflake: Connected Sites
   * https://moneywise.com
   * https://www.revcomm.co.jp
