@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on meaningful projects and [gists](https://gist.github.com/prezire). Please visit my :black_nib: [arts](https://prezire.wordpress.com/arts/) as well
 - 📫 How to reach me prezire@gmail.com
 - :briefcase: Dev Portfolio sites:
+  * https://prezire.framer.website (Framer)
   * https://profile-app-vuejs.web.app (Vue.js)
   * https://profile-app-prezire.vercel.app (Next.js)
   * https://prezire.wordpress.com/development (WordPress)
