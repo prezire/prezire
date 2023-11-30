@@ -11,6 +11,8 @@
   * https://my.spline.design/island2023-e914cc5ca4fd15d46d510bbc768562fa/ (3D)
   * https://my.spline.design/desksetup-7855e8face4844719546578a4feb0649/ (3D)
 - :snowflake: Connected Sites
+  * https://whirlpoolcentral.ca
+  * https://whirlpoolconnect.ca
   * https://moneywise.com
   * https://www.revcomm.co.jp
   * https://www.eyeqadvantage.org/login
