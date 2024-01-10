@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prezire
-- 👀 I’m interested in Ubuntu, Laravel, Django, Vue.js and Docker
-- 🌱 I’m currently learning Headless CMS, Rails, 3D, K8s and React.js
+- 👀 I’m interested in Ubuntu, Laravel, Django, Vue.js/Nuxt.js and Docker
+- 🌱 I’m currently learning OpenAI API, Terraform, Headless CMS, WordPress, 3D, Kubernetes and React.js/Next.js
 - 💞️ I’m looking to collaborate on meaningful projects and [gists](https://gist.github.com/prezire). Please visit my :black_nib: [arts](https://prezire.wordpress.com/arts/) as well
 - 📫 How to reach me prezire@gmail.com
 - :briefcase: Dev Portfolio sites:
