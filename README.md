@@ -10,7 +10,11 @@
   * https://prezire.wordpress.com/development (WordPress)
   * https://my.spline.design/island2023-e914cc5ca4fd15d46d510bbc768562fa/ (3D)
   * https://my.spline.design/desksetup-7855e8face4844719546578a4feb0649/ (3D)
+  * https://www.linkedin.com/in/prezire
 - :snowflake: Connected Sites
+  * https://merchant.apocryphapay.com/admin
+  * https://wallet.allpay.ca/admin
+  * https://merchant.payment-portal.io/admin
   * https://whirlpoolcentral.ca
   * https://whirlpoolconnect.ca
   * https://moneywise.com
